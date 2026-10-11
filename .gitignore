@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Data, checkpoints, and run outputs (never committed)
+*.npy
+*.npz
+*.pth
+*.pt
+*.pkl
+*.csv
+*.json
+runs/
+eval/
+outputs/
+data/
